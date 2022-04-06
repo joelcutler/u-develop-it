@@ -12,9 +12,18 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
+    "mysql": "^2.18.1",
     "mysql2": "^2.3.3"
   },
   "devDependencies": {
     "jest": "^27.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelcutler/u-develop-it.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joelcutler/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/joelcutler/u-develop-it#readme"
 }
